@@ -6,7 +6,7 @@
       "use": "@vercel/node"
     },
     {
-      "src": "remix.config.js",
+      "src": "vite.config.ts",
       "use": "@vercel/remix"
     }
   ],
